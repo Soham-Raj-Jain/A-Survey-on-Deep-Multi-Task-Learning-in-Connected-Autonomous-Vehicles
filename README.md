@@ -33,7 +33,7 @@ This repository contains all deliverables for the short story assignment based o
 
 | Deliverable | Link |
 |---|---|
-| 📄 Medium Article | *(paste your Medium URL here after publishing)* |
+| 📄 Medium Article | *[Medium Article](https://medium.com/@sohamrajjain0007/why-self-driving-cars-need-to-multitask-the-role-of-deep-learning-3e11fc6541d2?postPublishedType=repub)* |
 | 🎥 YouTube Video | *(paste your YouTube URL here after uploading)* |
 | 📖 Original Paper | https://arxiv.org/abs/2508.00917 |
 
